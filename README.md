@@ -1,5 +1,3 @@
 # SLIDESHOW
 
-
-
-https://sweet-narwhal-bb7019.netlify.app
+<a href="https://sweet-narwhal-bb7019.netlify.app">SLIDESHOW</a>
